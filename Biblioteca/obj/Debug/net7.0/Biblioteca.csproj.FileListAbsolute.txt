@@ -1,0 +1,14 @@
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\bin\Debug\net7.0\Biblioteca.exe
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\bin\Debug\net7.0\Biblioteca.runtimeconfig.json
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\Biblioteca.genruntimeconfig.cache
+C:\Users\dnome\OneDrive\Escritorio\CURSOS_DEV\C#_NET\Biblioteca\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
